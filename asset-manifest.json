@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-WebsiteTourist/static/css/main.52b01dba.chunk.css",
+    "main.js": "/React-WebsiteTourist/static/js/main.afdc6d35.chunk.js",
+    "main.js.map": "/React-WebsiteTourist/static/js/main.afdc6d35.chunk.js.map",
+    "runtime-main.js": "/React-WebsiteTourist/static/js/runtime-main.86a2b996.js",
+    "runtime-main.js.map": "/React-WebsiteTourist/static/js/runtime-main.86a2b996.js.map",
+    "static/js/2.fa99bfc2.chunk.js": "/React-WebsiteTourist/static/js/2.fa99bfc2.chunk.js",
+    "static/js/2.fa99bfc2.chunk.js.map": "/React-WebsiteTourist/static/js/2.fa99bfc2.chunk.js.map",
+    "index.html": "/React-WebsiteTourist/index.html",
+    "static/css/main.52b01dba.chunk.css.map": "/React-WebsiteTourist/static/css/main.52b01dba.chunk.css.map",
+    "static/js/2.fa99bfc2.chunk.js.LICENSE.txt": "/React-WebsiteTourist/static/js/2.fa99bfc2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-WebsiteTourist/static/media/img-8.fabdf94d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86a2b996.js",
+    "static/js/2.fa99bfc2.chunk.js",
+    "static/css/main.52b01dba.chunk.css",
+    "static/js/main.afdc6d35.chunk.js"
+  ]
+}
